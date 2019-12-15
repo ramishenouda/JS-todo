@@ -8,3 +8,17 @@
     z-index: 1;
     text-align: center;
 }
+
+#task {
+    width: 100%;
+    height: 47px;
+    color: rgb(207, 207, 207);
+    font-family: Monoton;
+    font-size: 40px;
+    z-index: 1;
+    text-align: center;
+}
+
+li {
+    padding: 4px;
+}
