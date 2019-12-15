@@ -1,0 +1,17 @@
+{
+    "day1": {
+        "history": "15/12",
+        "done": false,
+        "todo": [
+            {
+                "Syntax" : [
+                    "- Lecutre 4",
+                    "- Quick revision Lecture 1, 2"
+                ],
+                "Complexity" : [
+                    "- 1/2 First midterm"
+                ]
+            }
+        ]
+    }
+}
